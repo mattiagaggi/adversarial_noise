@@ -41,7 +41,7 @@ The demo will output the results. The results are also shown below:
 
 ### Comments and Next Steps
 
-As expected, PGD is more effective than the basic method. A lot of improvements can be made from here.
+As expected, PGD is more effective than the basic method. A lot of improvements can be made from here, fine tuning of the method parameters etc. Need to write tests also. Curious how the label change is still in the cat family of labels.
 
 ## License
 
