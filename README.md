@@ -31,7 +31,8 @@ To run the demo, follow these steps:
 
 2. Run the demo script:
     ```bash
-    python -m my_package.demo
+    cd demo
+    python demo.py
     ```
 
 The demo will output the results. The results are also shown below:
