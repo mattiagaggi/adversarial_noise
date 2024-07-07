@@ -1,6 +1,6 @@
 # Adversarial Noise
 
-A brief description of your package.
+This package contains two types of adversarial noise.
 
 ## Installation
 
@@ -8,12 +8,18 @@ To install the package, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/my_package.git
-    cd my_package
+    git clone https://github.com/mattiagaggi/adversarial_noise
     ```
 
-2. Install the package:
+2. Make sure you have Python 3.11 installed. Create a virtual environment using:
     ```bash
+    python3.11 -m venv env
+    source env/bin/activate
+    ```
+
+3. Navigate into the repository and install the package:
+    ```bash
+    cd adversarial_noise
     pip install .
     ```
 
@@ -28,7 +34,13 @@ To run the demo, follow these steps:
     python -m my_package.demo
     ```
 
-The demo will output the result of the `some_function` from `module1`.
+The demo will output the results. The results are also shown below:
+
+![Demo Output](demo/output.png)
+
+### Comments and Next Steps
+
+As expected, PGD is more effective than the basic method. A lot of improvements can be made from here.
 
 ## License
 

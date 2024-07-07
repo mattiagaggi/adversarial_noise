@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: adversarial_noise
+Version: 0.1.0
+Summary: Adversarial noise generation, PDG and FGSM supported
+Home-page: https://github.com/yourusername/adversarial_noise  # Replace with your repository URL
+Author: Mattia Gaggi
+Author-email: youremail@example.com  # Add your email here
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11
+Requires-Dist: matplotlib==3.9.1
+Requires-Dist: requests==2.32.3
+Requires-Dist: numpy==2.0.0
+Requires-Dist: pillow==10.4.0
+Requires-Dist: torch==2.3.1
+Requires-Dist: torchvision==0.18.1

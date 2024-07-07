@@ -1,0 +1,11 @@
+venv
+__pycache__/
+env_variables.yaml
+env_variables.development.yaml
+.vscode
+.DS_Store
+images
+*.ipynb
+docs/build
+keys
+src/test/*.html

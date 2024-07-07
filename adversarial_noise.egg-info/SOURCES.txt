@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+adversarial_noise/__init__.py
+adversarial_noise/noise.py
+adversarial_noise.egg-info/PKG-INFO
+adversarial_noise.egg-info/SOURCES.txt
+adversarial_noise.egg-info/dependency_links.txt
+adversarial_noise.egg-info/requires.txt
+adversarial_noise.egg-info/top_level.txt
