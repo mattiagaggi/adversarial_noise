@@ -9,3 +9,4 @@ images
 docs/build
 keys
 src/test/*.html
+build/*
